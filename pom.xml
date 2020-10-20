@@ -6,7 +6,7 @@
 
 	<groupId>com.github.guilopesn</groupId>
 	<artifactId>xlsx2txt</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
     <build>
         <plugins>
             <plugin>
